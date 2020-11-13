@@ -1,2 +1,2 @@
 # js-animations
-People stories with animations in JavaScript
+## Fictional people stories with animations in JavaScript
